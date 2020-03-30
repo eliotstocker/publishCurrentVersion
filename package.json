@@ -59,6 +59,6 @@
     "p-reduce": "^1.0.0",
     "pacote": "^9.5.0",
     "semver": "^5.5.0",
-    "yargs": "github:yargs/yargs"
+    "yargs": "^13.3.2"
   }
 }
